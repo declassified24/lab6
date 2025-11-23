@@ -1,0 +1,19 @@
+﻿# Kubernetes
+*kubeconfig*
+*minikube*
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
